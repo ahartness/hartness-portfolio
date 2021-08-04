@@ -93,6 +93,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Music Mobile App (In Progress)",
+        "category":  "",
+        "image": "music.jpg",
+        "url": "https://github.com/ahartness/music-project"
+      },
+      {
         "title": "AirBnB Clone (React JS)",
         "category": "",
         "image": "airbnb.jpg",
