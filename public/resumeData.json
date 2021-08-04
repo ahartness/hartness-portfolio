@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Andrew Hartness",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "A Software Engineer, from Charlotte NC, with 3 years of experience outside of college.  Got my start in Quality Assurance and quickly moved into a software development career.  Have worked on projects using .NET and most recently moved into building out react web applications and have found a love for the javascript library.  As of lately, began an interest in learning react native to hopefully move into building out well designed apps for mobile devices.",
+    "contactmessage": "",
+    "email": "hartness.andrew@gmail.com",
+    "phone": "910-459-1910",
+    "address": {
+      "street": "114 Poindexter Dr.",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "28203"
+    },
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/1VkQtjymVC1Bk_3E_OMHuMHAVuNhpd0839Blk0xv1t-U/edit?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahartness",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ahartness",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/andrewhartness",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of North Carolina at Charlotte",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December 2017",
+        "description": "Outside Concentration in Business"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bank of America",
+        "title": "Application Programmer V (Contractor)",
+        "years": "Aug 2020 - Present",
+        "description": "Lead Developer for the PI-Planning component of the bank's online reporting application Agileview.  Agileview pulled data directly from the Jira RestApi to provide real-time, on demand reporting at a project, program and portfolio levels.  Saw a increase of 8000 & 1200 board creations during the year of development.  Built out two new components:  ROAM Board for tracking risks and a Team Board for tracking team progress within a Program Interval."
+      },
+      {
+        "company": "AMT Direct",
+        "title": "Software Engineer I",
+        "years": "Feb 2019 - July 2020",
+        "description": "Full Stack Development for AMTdirect's Lease Administration and Accounting Software.  Development on AMTdirect's new lease accounting calculator.\nWrote Date Fix Scripts & Stored Procedures (SQL) for calculations of FASB Accounting Standard.\n\nMaintenance of legacy code and development of new functionality base of FASB/Accounting business requirements.  Worked with a team of 5 on AMTdirect's GASB Financial accounting calculator WebAPI (Lead on Front End Development with React & Typescript.  Developed Re-vamp of Journal Entry Module for the FASB Accouting standard within AMTdirect's Accounting Web Application (RESTApi, KendoUI, .NET)"
+      },
+      {
+        "title": "QA Analyst",
+        "years": "Aug 2018 - Jan 2019",
+        "description": "Manual Testing of AMTdirect Software.  Developed & Maintained automated tests (VB) for release builds.  Wrote test cases based on accounting business requirement documents that were imported into out QA and Automation software (TestComplete)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AirBnB Clone (React JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://github.com/ahartness/airbnb-clone"
+      }
+    ]
+  }
+}
+
