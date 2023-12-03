@@ -9,10 +9,10 @@
     "email": "hartness.andrew@gmail.com",
     "phone": "910-459-1910",
     "address": {
-      "street": "114 Poindexter Dr.",
+      "street": "",
       "city": "Charlotte",
       "state": "North Carolina",
-      "zip": "28203"
+      "zip": "28205"
     },
     "website": "",
     "resumedownload": "https://docs.google.com/document/d/1VkQtjymVC1Bk_3E_OMHuMHAVuNhpd0839Blk0xv1t-U/edit?usp=sharing",
@@ -31,6 +31,11 @@
         "name": "instagram",
         "url": "https://instagram.com/andrewhartness",
         "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/andrewhartness",
+        "className": "fa fa-twitter"
       }
     ]
   },
@@ -47,8 +52,14 @@
     "work": [
       {
         "company": "Bank of America",
+        "title": "Software Engineer II",
+        "years": "Jun 2022 - Present",
+        "description": "Continued Lead Developer for the PI-Planning component of the bank's online reporting application Agileview.  Also worked on other applications within the companies Business Management Techologies"
+      },
+      {
+        "company": "Bank of America",
         "title": "Application Programmer V (Contractor)",
-        "years": "Aug 2020 - Present",
+        "years": "Aug 2020 - Jun 2022",
         "description": "Lead Developer for the PI-Planning component of the bank's online reporting application Agileview.  Agileview pulled data directly from the Jira RestApi to provide real-time, on demand reporting at a project, program and portfolio levels.  Saw a increase of 8000 & 1200 board creations during the year of development.  Built out two new components:  ROAM Board for tracking risks and a Team Board for tracking team progress within a Program Interval."
       },
       {
@@ -70,7 +81,7 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
@@ -85,7 +96,7 @@
         "level": "70%"
       },
       {
-        "name": "C#",
+        "name": "C# (.NET Framework)",
         "level": "55%"
       }
     ]
@@ -103,6 +114,12 @@
         "category": "",
         "image": "airbnb.jpg",
         "url": "https://airbnb-clone-five-eta.vercel.app/"
+      },
+      {
+        "title": "AngularJS Portfolio",
+        "category": "",
+        "image": "angularjs.jpg",
+        "url": "https://github.com/ahartness/angular-portfolio"
       }
     ]
   }
